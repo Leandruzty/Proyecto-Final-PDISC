@@ -21,4 +21,4 @@ Pasos para el correcto funcionamiento:
 
 Una vez que se cierra la ventana, el archivo de texto con la conversion se encontrara en este directorio.
 
-Posdata: En la instalacion viene un archivo de audio ".wav" para probar.
+Posdata: El archivo audio ".wav" es para testear si funciona.

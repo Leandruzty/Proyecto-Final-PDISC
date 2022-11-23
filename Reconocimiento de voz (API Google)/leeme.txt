@@ -1,0 +1,24 @@
+Requisitos:
+- Haber ejecutado el comando "pip install SpeechRecognition" en el simbolo del sistema.
+
+- Tener instalada la version mas actual de python
+
+A tener en cuenta:
+- Los archivos de audio soportados con los siguientes: AIFF, AIFF-C, FLAC, wav.
+- De manera predeterminada, la API de google lee audios en Ingles.
+
+Pasos para el correcto funcionamiento:
+
+1. Ejecutar el comando "pip install SpeechRecognition" en el simbolo del sistema, esto descarga el modulo de internet.
+
+2. Entrar en el archivo "settings.ini".
+
+3. En "audiofile", escribir el nombre del archivo de audio seguido de la extension, y colocar en "txtname", el nombre que va a contener el nombre del archivo seguido de la extension ".txt".
+
+4. Colocar el archivo de audio en este directorio.
+
+5. Hacer doble clic sobre el archivo "SpeechRecognizer".
+
+Una vez que se cierra la ventana, el archivo de texto con la conversion se encontrara en este directorio.
+
+Posdata: En la instalacion viene un archivo de audio ".wav" para probar.
